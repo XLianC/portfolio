@@ -17,18 +17,18 @@ const skillItem = [
       desc: 'Interaction'
     },
     {
-      imgSrc: '/images/nodejs.svg',
-      label: 'NodeJS',
-      desc: 'Web Server'
+      imgSrc: '/images/next-js-logo.png',
+      label: 'NextJS',
+      desc: 'React Framework'
     },
     {
-      imgSrc: '/images/expressjs.svg',
-      label: 'ExpressJS',
-      desc: 'Node Framework'
+      imgSrc: '/images/react-js-logo.png',
+      label: 'React JS',
+      desc: 'Javascript library'
     },
     {
-      imgSrc: '/images/mongodb.svg',
-      label: 'MongoDB',
+      imgSrc: '/images/firebase-logo.png',
+      label: 'Firebase',
       desc: 'Database'
     },
     {
