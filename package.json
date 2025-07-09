@@ -2,6 +2,10 @@
   "name": "web-porto",
   "version": "0.1.0", 
   "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
   "dependencies": {
     "animate.css": "^4.1.1",
     "cra-template": "1.2.0",

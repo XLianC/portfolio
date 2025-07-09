@@ -48,7 +48,7 @@ const Profile = () => {
             <ButtonPrimary
               label="Download CV"
               icon="download"
-              href="https://drive.google.com/file/d/1-4Ihi6NeHLcwwvwEPviHWltft65PRwGs/view?usp=sharing"
+              href="https://drive.google.com/file/d/10scgiNsSPt3yOj8l1hF2gb5Mpx_dKoku/view?usp=drive_link"
             />
 
             <ButtonOutline href="#about" label="Scroll down" icon="arrow_downward" />
