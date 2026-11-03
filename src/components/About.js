@@ -5,7 +5,7 @@ import 'animate.css';
 const aboutItems = [
   {
     label: "Project done",
-    number: 5,
+    number: 7,
   },
 ];
 
@@ -29,11 +29,13 @@ const About = () => {
       >
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Hi! I&apos;m Sam, a Computer Science student at Multimedia Nusantara
-            University with a passion for Web Development, UI/UX design, and
-            database management. I thrive in dynamic environments, enjoy
-            collaboration, and committed to continuous learning and growth.
-          </p>
+            Hi! I’m Sam, an Informatics graduate from Multimedia Nusantara University 
+            passionate about Web Development, UI/UX Design, Database Management, and 
+            Artificial Intelligence. I enjoy leveraging AI tools to enhance productivity, 
+            streamline development workflows, and build innovative digital solutions. I thrive 
+            in collaborative environments and am committed to continuous learning, exploring 
+            emerging technologies, and creating impactful user experiences.
+          </p>  
 
           <div className="flex flex-wrap items-center gap-4 md:gap-7">
             {aboutItems.map(({ label, number }, key) => (

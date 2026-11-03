@@ -37,6 +37,12 @@ const works = [
       tags: ['Web-design', 'Development', 'Clothing E-commerce'],
       projectLink: 'https://www.figma.com/design/SoQAWAP0CsuHQvzDkLH1j0/FIGMA-Kelompok-1-IF450-F?node-id=0-1&p=f&t=3ecjDaqlnjOxd2MU-0'
     },
+    {
+      imgSrc: '/images/hero_blurred.jpg',
+      title: 'Wedding Invitation',
+      tags: ['Web-design', 'Development', 'Wedding Invitation'],
+      projectLink: ''
+    },
   ];
 
 const Project = () => {
